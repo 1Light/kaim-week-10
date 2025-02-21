@@ -1,7 +1,3 @@
-Here’s a concise **GitHub-style README** for your project:  
-
----
-
 # **Brent Oil Price Analysis**  
 
 This project analyzes how major global events impact **Brent crude oil prices** over time. Using historical data from **May 20, 1987, to September 30, 2022**, we assess price fluctuations caused by political, economic, and financial crises.  
