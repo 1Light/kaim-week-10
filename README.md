@@ -16,7 +16,7 @@ This project analyzes how major global events impact **Brent crude oil prices** 
 Clone the repository:  
 ```bash
 git clone https://github.com/1Light/kaim-week-10.git
-cd brent-oil-analysis
+cd kaim-week-10.git
 ```
 Install dependencies:  
 ```bash
